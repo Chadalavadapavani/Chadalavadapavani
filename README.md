@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chadalavadapavani
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @PavaniChadalavada
+- 👀 I’m interested in analyzing data 
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ... projects related to python
+- 💞️ I’m looking to collaborate on projects related to python
 - 📫 How to reach me ...
 
 <!---
